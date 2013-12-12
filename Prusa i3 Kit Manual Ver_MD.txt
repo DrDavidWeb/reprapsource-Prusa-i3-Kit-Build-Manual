@@ -15,6 +15,7 @@ Go you little rascal and open the box. It feels a little bit like christmas, but
 #Components
 ##Tools needed:
 Eyes & Brain
+
 ##Parts:
 Prusa i3 Kit in detail
 
@@ -100,6 +101,7 @@ printed plastic parts overview
 Soldering iron  
 Wire cutter  
 Wire stripper  
+
 ##Parts:  
 [<img src="Prev/IMG_0425.jpg">](Large/IMG_0425.jpg)  
 Heatbed
@@ -128,7 +130,8 @@ Soldering iron
 Wire cutter  
 Wire stripper  
 A pair of scissors  
-Kapton  
+polyimide tape  
+
 ##Parts:  
 [<img src="Prev/IMG_0437.jpg">](Large/IMG_0437.jpg)  
 Hotend  
@@ -148,7 +151,7 @@ PTFE tubing (small and large)
 [<img src="Prev/IMG_0475.jpg">](Large/IMG_0475.jpg)  
 3. Cut two short lengths of the small tubing and slide them onto the thermistor legs, leaving about a cm on each leg uncovered.  
 
-[<img src="Prev/IMG_0477.jpg">](Large/IMG_0477.jpg)
+[<img src="Prev/IMG_0477.jpg">](Large/IMG_0477.jpg)  
 [<img src="Prev/IMG_0478.jpg">](Large/IMG_0478.jpg)    
 4. Twist one end of the thermistor connection cable around the exposed part of the thermistor leg and solder it in place. Make sure to make the twist close enough to the thermistor that the tubing cannot move.  
 
@@ -156,8 +159,8 @@ PTFE tubing (small and large)
 5. Repeat with the other cable end and the other thermistor leg.  
 
 [<img src="Prev/IMG_0481.jpg">](Large/IMG_0481.jpg)  
-6. Cut off a short strip of kapton and wrap it around each of the solder joints several times.  
-7. Tape the two kapton covered joints together.  
+6. Cut off a short strip of polyimide tape and wrap it around each of the solder joints several times.  
+7. Tape the two polyimide tape covered joints together.  
 
 [<img src="Prev/IMG_0469.jpg">](Large/IMG_0469.jpg)  
 8. Proceed similar with the power resistor. Strip the ends of the silicone wire and twist the strands.  
@@ -177,16 +180,17 @@ PTFE tubing (small and large)
 13. Place the thermistor in the hole at the hotend.  
 
 [<img src="Prev/IMG_0484.jpg">](Large/IMG_0484.jpg)  
-14. Cut off a short strip of kapton and wrap it around each of the solder joints several times.  
-15. Use a strip of Kapton to secure the thermistor to the hotend. Wrap around several times, but make sure to keep the nozzle clear. (Do not economise with the Kapton.) It is important, that the thermistor is kept in place!  
-16.  Use a Kapton to attach the thermistor legs to the hotend and create a strain-relief by the way.  
+14. Cut off a short strip of polyimide tape and wrap it around each of the solder joints several times.  
+15. Use a strip of polyimide tape to secure the thermistor to the hotend. Wrap around several times, but make sure to keep the nozzle clear. (Do not economise with the polyimide tape.) It is important, that the thermistor is kept in place!  
+16.  Use a polyimide tape to attach the thermistor legs to the hotend and create a strain-relief by the way.  
 17. Bend resistor legs along the body.  
 
 #Assemble Extruder body
 ##Tools needed:
-Drill (3,2 mm)
+Drill (3,2 mm)  
 Hex Wrench (1,5 & 2,5)    
 Threadlocker  
+
 ##Parts:
 [<img src="Prev/IMG_0442.jpg">](Large/IMG_0442.jpg)  
 Metal Gear System Hardware Pack  
@@ -232,13 +236,14 @@ Nema 17 Motor
 #Groovemount/Fan holder
 ##Tools needed:
 Zip ties  
-Hex Wrench  
+Screwdriver (PH1)  
+
 ##Parts:
 [<img src="Prev/IMG_0486.jpg">](Large/IMG_0486.jpg)  
 Groovemount  
 Hotend  
 Fan  
-4 x Screws  
+4 x Screws (from Metal Gear System Hardware Pack)  
 
 ##To Do:
 [<img src="Prev/IMG_0487.jpg">](Large/IMG_0487.jpg)  
@@ -255,9 +260,9 @@ Fan
 #Connect Groove Mount und Extruder Body
 ##Tools needed:
 Zip ties  
-Hex Wrench  
-##Parts:
+Hex Wrench (2,5)  
 
+##Parts:
 [<img src="Prev/IMG_0492.jpg">](Large/IMG_0492.jpg)  
 Groovemount  
 Extruder Body  
@@ -274,6 +279,7 @@ Extruder Body
 ##Tools needed:
 2 x size 13 wrenches OR 1 adjustable wrench and one size 13 wrench  
 Caliper, tape measure or a ruler  
+
 ##Parts:
 [<img src="Prev/IMG_0498.jpg">](Large/IMG_0498.jpg)  
 4 x 200mm threaded M8 rods  
@@ -286,7 +292,7 @@ Y-axis drivetrain + belt tensioner
 
 #To Do:
 [<img src="Prev/IMG_0499.jpg">](Large/IMG_0499.jpg)  
-1. Take the four short rods, a ... nut and motor holder and drivetrain.  
+1. Take the four short rods, a M4 nut and motor holder and drivetrain.  
 
 [<img src="Prev/IMG_0501.jpg">](Large/IMG_0501.jpg)  
 [<img src="Prev/IMG_0502.jpg">](Large/IMG_0502.jpg)  
@@ -334,20 +340,21 @@ Y-axis drivetrain + belt tensioner
 [<img src="Prev/IMG_0520.jpg">](Large/IMG_0520.jpg)  
 [<img src="Prev/IMG_0521.jpg">](Large/IMG_0521.jpg)  
 18. Attach the drivetrain segment on the other side of your rods and slide them in. Attach the threaded rods with a washer and a nut.  
-19. Use two bearings, a M4 bolt and nut to attach an idler bearing to the drivetrain. Use a second nut to counter the first nut.  
+19. Use two 624 bearings, a M4 bolt and nut to attach an idler bearing to the drivetrain. Use a second nut to counter the first nut.  
 
 **WARNING:** The smooth rods sit pretty tight in their openings an it is important to slide them in. Do not push them in from the top! This could damage the printed partrs seriously.  
 
 #Y-Axis bed holders and motor
 ##Tools needed:
-Hex Wrench  
+Hex Wrench (1,5; 2,5)  
+
 ##Parts:
 3 x Bed holder  
 1 x NEMA17 motor  
 2 x M3x10 bolt  
 1 x Pulley  
 2 x grub screw  
-3 x M3x... bolt and nut  
+3 x M3x30 bolt and nut  
 
 ##To Do:
 [<img src="Prev/IMG_0522.jpg">](Large/IMG_0522.jpg)  
@@ -363,17 +370,18 @@ Hex Wrench
 [<img src="Prev/IMG_0530.jpg">](Large/IMG_0530.jpg)  
 4. Take the pulley and attach it to the motor shaft. Make sure the setscrew on the pulley aligns with the flattened side of the motor shaft.  
 
-#Y-Axis Heatbed bed (?)
+#Y-Axis plate
 ##Tools needed:
 3 or (better) 3,2 mm drill bit and drill  
 piece of scrapwood  
 pencil  
 masking tape  
 ruler  
+
 ##Parts:
 [<img src="Prev/IMG_0531.jpg">](Large/IMG_0531.jpg)  
 Heatbed  
-X x X square wooden plate  
+225x225 mm wooden plate  
 4 bulldog clamps  
 
 ##To Do:
@@ -386,19 +394,20 @@ X x X square wooden plate
 [<img src="Prev/IMG_0534.jpg">](Large/IMG_0534.jpg)  
 3. Remove the clamps and mark the direction in which the heatbed cables pointed when you drilled the holes.  
 
-[BILD FEHLT!)  
+[Zeichnung FEHLT!)  
 4. Turn the wooden plate upside down. You know see the rough side (bottom). Use a ruler to mark the middle of the plate and draw a line. (Your marking for the cables should be on the left side of the ruler)  
 5. Without lifting the ruler, make a mark at 112mm from the edge, and another mark at 20mm from the edge.  
 6. Position your ruler on the 20mm mark, and draw a line parallel to the edge of the square plate.  
 
-**TIP:** It is possible to get the wooden parts, with different coatings or even without. We usually deliver dark coated wood, because it looks the nicest. But feel to use what you like. To make it easy to mark the wood with a pencil, put some masking tape on it.  
+**TIP:** It is possible to get the wooden parts, with different coatings or even without. We usually deliver dark coated wood, because it looks the nicest. But feel free to use what you like. To make it easy to mark the wood with a pencil, put some masking tape on it.  
 
 #Attach printbed to Y-Axis
 ##Tools needed:
 Screwdriver  
 3 or (better) 3,2 mm drill bit and drill  
+
 ##Parts:
-6 x ... wood screw  
+6 x 3,5x20 mm wood screws  
 
 ##To Do:
 [<img src="Prev/IMG_0535.jpg">](Large/IMG_0535.jpg)  
@@ -406,10 +415,10 @@ Screwdriver
 2. Position the two printed bearing holders on top so that their top touches the line you marked.  
 3. Position the third bearing holder so the vertical line is visible through its mounting holes.  
 
-[<img src="Prev/IMG_0536.jpg">](Large/IMG_0536.jpg) 
-[<img src="Prev/IMG_0537.jpg">](Large/IMG_0537.jpg)   
+[<img src="Prev/IMG_0536.jpg">](Large/IMG_0536.jpg)  
+[<img src="Prev/IMG_0537.jpg">](Large/IMG_0537.jpg)  
 4. Pre-drill each hole exactly on the line and attach the printed part to the wood with two wood screws.  
-5. Position the top right printed part so that its top is aligned with the line and it's horizontally about halfway between the line you drew and the edge of the plate. 
+5. Position the top right printed part so that its top is aligned with the line and it is horizontally about halfway between the line you drew and the edge of the plate. 
 6. Pre-drill the top hole and insert a screw.  
 7. Position and mount the top left part the same way. Make sure they are both aligned with the horizontal line.  
 8. Now add the bottom two screws.  
@@ -422,12 +431,13 @@ Screwdriver
 #Y-Axis belt assembly
 ##Tools needed:
 Sidecutter  
-Screwdriver  
+Screwdriver (PH2)  
+
 ##Parts:
 [<img src="Prev/IMG_0539.jpg">](Large/IMG_0539.jpg)  
-... belt  
+gt2 belt  
 Y-belt clamp  
-2 ... wood screw  
+2 x 3,5x20 mm wood screws  
 1 x M4 x 20 screw  
 
 ##To Do:
@@ -451,12 +461,13 @@ Y-belt clamp
 
 [<img src="Prev/IMG_0546.jpg">](Large/IMG_0546.jpg)    
 [<img src="Prev/IMG_0547.jpg">](Large/IMG_0547.jpg)    
-9. Insert M4 into belt tensioner.  
+9. Insert M4 x 20 into belt tensioner.  
 
 #X-Axis assembly - prepare printed parts 
 ##Tools needed:
-Sidecutter
+Sidecutter  
 Screwdriver (or Power tool)  
+
 ##Parts:
 [<img src="Prev/IMG_0548.jpg">](Large/IMG_0548.jpg)    
 X-Axis idler  
@@ -464,7 +475,7 @@ X-Axis carriage
 X-Axis motor holder  
 2 x M5 nuts  
 1 x M5 x 20 (or 16) screw  
-6x ... bearings  
+6x LM10UU bearings  
 
 ##To Do:
 [<img src="Prev/IMG_0550.jpg">](Large/IMG_0550.jpg)    
@@ -477,16 +488,17 @@ X-Axis motor holder
 
 [<img src="Prev/IMG_0555.jpg">](Large/IMG_0555.jpg)    
 [<img src="Prev/IMG_0556.jpg">](Large/IMG_0556.jpg)    
-3. Slide in the ... bearings into the printed parts with reasonable force if necessary.  
+3. Slide in the LM10UU bearings into the printed parts with reasonable force if necessary.  
 
 #X-Axis assembly - Attach printed parts
 ##Tools needed:
+
 ##Parts:
 [<img src="Prev/IMG_0557.jpg">](Large/IMG_0557.jpg)    
 X-Axis idler  
 X-Axis carriage  
 X-Axis motor holder  
-2 x ... smooth rods  
+2 x 470 mm smooth rods  
 
 ##To Do:
 [<img src="Prev/IMG_0558.jpg">](Large/IMG_0558.jpg)    
@@ -494,8 +506,9 @@ X-Axis motor holder
 
 #X-Axis assembly - Attach X-motor
 ##Tools needed:
-Hex wrench  
-Screwdriver  
+Hex wrench (1,5; 2,5)
+Screwdriver (PH2)  
+
 ##Parts:
 [<img src="Prev/IMG_0559.jpg">](Large/IMG_0559.jpg)  
 1 x NEMA17 motor  
@@ -507,7 +520,7 @@ Screwdriver
 [<img src="Prev/IMG_0560.jpg">](Large/IMG_0560.jpg)  
 BILD STIMMT NICHT MIT TEXT  
 1. Place the motor so that the wire harness is facing in the opposite direction of the small arm of the X-Axis motor holder.  
-2. Attach the 3 M3 screws.  
+2. Attach the 3 M3x10 screws.  
 
 [<img src="Prev/IMG_0561.jpg">](Large/IMG_0561.jpg)  
 3. Slide on the pulley. Leave a small gap between pulley and motor body.  
@@ -515,8 +528,8 @@ BILD STIMMT NICHT MIT TEXT
 
 #X-Axis assembly - Attach X-Axis belt tensioner
 ##Tools needed:
-Hex wrench  
-2x ... wrench  
+Hex wrench  (2,5)
+2x 13 mm wrench  
 ##Parts:
 [<img src="Prev/IMG_0562.jpg">](Large/IMG_0562.jpg)  
 X-Axis belt tensioner  
@@ -543,6 +556,7 @@ X-Axis belt tensioner
 6. Connect both parts with the M4x30 screw and nut.  
 
 #Frame assembly
+ZEICHNUNG FRAME FEHLT NOCH
 ##Tools needed:
 Screwdriver  
 3 or (better) 3,2 mm drill bit and drill  
@@ -555,7 +569,7 @@ overview and the helping hands of a friend, if available are suggested
 ##Parts:
 [<img src="Prev/IMG_0575.jpg">](Large/IMG_0575.jpg)  
 6 x 450 mm wood panels (IMPORTANT: Put the longer panel away to not mix up the panels. You will need it later.)  
-... x 20mm wood screws  
+20 x 3,5x20mm wood screws  
 
 ##To Do:
 [<img src="Prev/IMG_0576.jpg">](Large/IMG_0576.jpg)  
@@ -597,12 +611,12 @@ overview and the helping hands of a friend, if available are suggested
 
 #Frame assembly add top panel
 ##Tools needed:
-Screwdriver  
+Screwdriver (PH2)  
 3 or (better) 3,2 mm drill bit and drill Countersink bit (Optional) second drill or power screwdriver (Makes working much easier, because you do not have to change the bits all the time)  
 
 ##Parts:
 1 x 474mm wood panel  
-8 x ... x 20mm wood screws  
+8 x 3,5x20 mm wood screws  
 
 ##To Do:
 [<img src="Prev/IMG_0589.jpg">](Large/IMG_0589.jpg)  
@@ -612,7 +626,7 @@ Screwdriver
 
 #Z-Axis assembly
 ##Tools needed:
-Screwdriver  
+Screwdriver (PH2)  
 3 or (better) 3,2 mm drill bit and drill  
 3mm spacers  
 Zipties  
@@ -623,7 +637,7 @@ Zipties
 2 x NEMA17 motor  
 6 x M3x10 bolt  
 X-Axis part  
-... wood screws  
+8 x 3,5x20 mm wood screws  
 
 ##To Do:
 [<img src="Prev/IMG_0592.jpg">](Large/IMG_0592.jpg)  
@@ -657,7 +671,7 @@ X-Axis part
 
 #Attach Y-Axis to frame
 ##Tools needed:
-Screwdriver  
+Screwdriver (PH2)  
 Tape measure  
 3 or (better) 3,2 mm drill bit and drill  
 
@@ -665,7 +679,7 @@ Tape measure
 Frame  
 Y-Axis  
 4 x Frame mounts  
-16 x ... x 20mm wood screws  
+16 x  3,5x20 mm wood screws  
 
 ##To Do:
 1. Place the Y-Axis between the frame and center it. The Y-Axis motor should face the open side of the frame. (Not the side with the other axises.)  
@@ -694,7 +708,7 @@ Sidecutter
 
 ##Parts:
 [<img src="Prev/IMG_0624.jpg">](Large/IMG_0624.jpg)  
-X x X belt  
+gt2 belt  
 
 ##To Do:
 1. Free your X-Axis.  
@@ -716,14 +730,14 @@ X x X belt
 
 #Fix X-Axis bearings
 ##Tools needed:
-Hex wrench  
+Hex wrench (2,5)  
 
 ##Parts:
 X-Axis motor holder  
 X-Axis carriage  
 X-Axis idler  
-7 x M4x... screws  
-7x M4 nuts  
+7 x M3x30 mm screws  
+7x M3 nuts  
 
 ##To Do:
 1. Each bearing is in a bracket.  
@@ -734,7 +748,7 @@ X-Axis idler
 
 #Attach threaded Z-rods
 ##Tools needed:
-Hex wrench  
+Hex wrench (2,5) 
 
 ##Parts:
 [<img src="Prev/IMG_0635.jpg">](Large/IMG_0635.jpg)  
@@ -742,8 +756,8 @@ Hex wrench
 2 x M5 threaded rods  
 tubing  
 4 x tube clamps  
-4 x MX x ... screws  
-4 x MX nuts  
+4 x M3x10 mm screws  
+4 x M3 nuts  
 Patience this is a bit fiddly  
 
 ##To Do:
@@ -771,7 +785,7 @@ Patience this is a bit fiddly
 Sidecutter  
 Wire stripper  
 Soldering iron and solder  
-Kapton  
+polyimide tape  
 
 ##Parts:
 [<img src="Prev/IMG_2717.jpg">](Large/IMG_2717.jpg)  
@@ -791,18 +805,18 @@ Heatbed
 5. Repeat with other cable end and thermistor leg.  
 
 [<img src="Prev/IMG_2726.jpg">](Large/IMG_2726.jpg)  
-6. Cover the solder joints with kapton.  
+6. Cover the solder joints with polyimide tape.  
 
 [<img src="Prev/IMG_2736.jpg">](Large/IMG_2736.jpg)  
-7. Place the thermistor on the heatbed bottom and attach it with several stripes of kapton.  
+7. Place the thermistor on the heatbed bottom and attach it with several stripes of polyimide tape.  
 
 #Attach heatbed to print bed base
 ##Tools needed:
-Hex Wrench  
-Wrench  
+Hex Wrench (2,5) 
+Wrench  5,5 mm
 
 ##Parts:
-4 x M3 x ... screws  
+4 x M3 x 30 mm screws  
 4 x M3 nuts  
 8 x M4 nuts  
 
@@ -822,9 +836,8 @@ Wrench
 Sidecutter  
 Wire stripper  
 Soldering iron and solder  
-Zipties  
-Screwdriver  
-Kapton  
+Zipties    
+polyimide tape  
 Heat Gun/Lighter  
 
 ##Parts:
@@ -835,7 +848,7 @@ small cable bundle tube
 
 ##To Do:
 [<img src="Prev/IMG_2778.jpg">](Large/IMG_2778.jpg)  
-1. The electronic sits behind the frame on one side with the Z and X motor under the upper plate. (I further will call this the electronic side.)  
+1. The electronic sits behind the frame on one side with the Z and X motor under the upper plate. (I further will call this the electronic side.) If you measure the cable length of the motor cables, make sure that they are long enough. Maybe it is necessary to place the electronics a little bit deeper on the panel, so that the cable length is sufficient.  
 
 [<img src="Prev/IMG_2774.jpg">](Large/IMG_2774.jpg)  
 [<img src="Prev/IMG_2775.jpg">](Large/IMG_2775.jpg)  
@@ -843,6 +856,7 @@ small cable bundle tube
 3. Now it is time to adjust the length of the motor cables and connect a plug to the end.  
 
 [<img src="Prev/IMG_2782.jpg">](Large/IMG_2782.jpg)  
+KABELWEGE EINZEICHNEN!!!
 4. Watch the graphic for the recommended cable run.  
 
 [<img src="Prev/IMG_2788.jpg">](Large/IMG_2788.jpg)  
@@ -864,14 +878,14 @@ small cable bundle tube
 Hex Wrench  
 
 ##Parts:
-2 x M4 x 60
-2 x M3 x 30
-1 x M3 x 25
-2 x M4 nut
-3 x M3 nut
-2 x spring
-Extruder
-Idler
+2 x M4x60 mm  
+2 x M3x30 mm  
+1 x M3x25 mm  
+2 x M4 nut  
+3 x M3 nut  
+2 x spring  
+Extruder  
+Idler  
 large cable bundle tube  
 
 ##To Do:
@@ -896,11 +910,11 @@ large cable bundle tube
 
 #Attach the electronics to the frame
 ##Tools needed:
-Screwdriver  
+Screwdriver (PH2)  
 
 ##Parts:
 6  x Zip ties  
-3 x Wood screws  
+3 x 3,5x20 mm Wood screws  
 
 ##To Do:
 [<img src="Prev/IMG_2778.jpg">](Large/IMG_2778.jpg)  
@@ -968,7 +982,7 @@ Power supply
 Hands  
 
 ##Parts:
-8 x zip tie  
+8 x zip ties  
 
 ##To Do:
 [<img src="Prev/DSC01007.jpg">](Large/DSC01007.jpg)  
@@ -981,26 +995,26 @@ Hands
 
 #Attach endstops
 ##Tools needed:
-Hex wrench  
+Hex wrench (2,5)  
 
 ##Parts:
 [<img src="Prev/DSC01010.jpg">](Large/DSC01010.jpg)  
 3 x micro switch  
 X,Y,Z endstop holder  
-6 x M3 x 10 screws  
-3 x M3 x 20 screws  
-9x M3 x 10 nuts  
+6 x M3x10 mm screws  
+3 x M3x20 mm screws  
+9x M3 nuts  
 3 x endstop cable  
 
 ##To Do:
 [<img src="Prev/DSC01013.jpg">](Large/DSC01013.jpg)  
 [<img src="Prev/DSC01014.jpg">](Large/DSC01014.jpg)  
 [<img src="Prev/DSC01015.jpg">](Large/DSC01015.jpg)  
-1. Screw one micro switch on to the flat side of each endstop holder with the M3 x 10 screws. The latch of the micro switch facing away from the part  
+1. Screw one micro switch on to the flat side of each endstop holder with the M3x10 mm screws. The latch of the micro switch facing away from the part  
 
 [<img src="Prev/DSC01017.jpg">](Large/DSC01017.jpg)  
 2. Put a nut into each nut trap of the endstop holders.  
-3. Attach the z-endstop below the x-motor on the z-rod with a M3 x 20. The z-endstop is the printed part that is bigger. X and Y endstop holder look similar.  
+3. Attach the z-endstop below the x-motor on the z-rod with a M3x20 mm. The z-endstop is the printed part that is bigger. X and Y endstop holder look similar.  
 4. Attach the x-endstop on the lower rod of the x-axis close to the x-motor.  
 5. Attach the y-endstop on the rod closer to the electronics on the y-axis in fromt of the y-motor.  
 
@@ -1105,4 +1119,4 @@ Parts
 ##To Do:
 1. blablablablablablbalbalbalbalbalblabalbalblablablablablablablablablablabalbalablbalblabal
 2. 
-
+Large
