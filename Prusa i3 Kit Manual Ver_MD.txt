@@ -886,173 +886,221 @@ large cable bundle tube
 [<img src="Prev/IMG_2839.jpg">](Large/IMG_2839.jpg)  
 [<img src="Prev/IMG_2841.jpg">](Large/IMG_2841.jpg)  
 3. Put the two M3 x 30 into the lower holes from the opposite side and attach the extruder mount to the X-carriage.  
+
+[<img src="Prev/IMG_2842.jpg">](Large/IMG_2842.jpg)  
 4. Attach the idler with the M3 x 25 to the extruder mount.  
+
+[<img src="Prev/IMG_2844.jpg">](Large/IMG_2844.jpg)  
+[<img src="Prev/IMG_2846.jpg">](Large/IMG_2846.jpg)  
 5. Slip the M4 x 60 through the idler and put on a spring and a nut.  
 
-#Attach the electronics tot he frame
+#Attach the electronics to the frame
 ##Tools needed:
-Screwdriver
+Screwdriver  
+
 ##Parts:
-6  x Zip ties
-3 x Wood screws
+6  x Zip ties  
+3 x Wood screws  
 
 ##To Do:
-1. Hold the electronic to ist final position and mark the position of the free circuitboard holes approximately. You do not need the exact position of the hole. (Watch the pictures first!)
-2. Slip a zip tie through each of three free holes and make a loop.
-3. Put another zip tie through each loop and form a loop. Tighten the inner loop and trim it.
-4. Screw in the three wood screws  a little on the marked positions. Be careful to not screw to deep. The screws should sit tight but not come out on the front panel.*
-5. Attach the electronics to the wood screws with the outer zip tie loops. Tighten and trim the zip ties.
+[<img src="Prev/IMG_2778.jpg">](Large/IMG_2778.jpg)  
+1. Hold the electronic to ist final position and mark the position of the free circuitboard holes approximately. You do not need the exact position of the hole. (Watch the pictures first!)  
 
-**IMPORTANT:** Do not screw in in the wood screws to deep or you will ruin the printer front!
+[<img src="Prev/IMG_2854.jpg">](Large/IMG_2854.jpg)  
+2. Slip a zip tie through each of three free holes and make a loop.  
+
+[<img src="Prev/IMG_2855.jpg">](Large/IMG_2855.jpg)  
+3. Put another zip tie through each loop and form a loop. Tighten the inner loop and trim it.  
+
+[<img src="Prev/IMG_2853.jpg">](Large/IMG_2853.jpg)  
+4. Screw in the three wood screws  a little on the marked positions. Be careful to not screw to deep. The screws should sit tight but not come out on the front panel. 
+
+[<img src="Prev/IMG_2858.jpg">](Large/IMG_2858.jpg)  
+5. Attach the electronics to the wood screws with the outer zip tie loops. Tighten and trim the zip ties.  
+  
+**IMPORTANT:** Do not screw in in the wood screws to deep or you will ruin the printer front!  
 
 #Connect electronics
 ##Tools needed:
-Fingers
+Fingers  
+
 ##Parts:
-ELECTRONICS PHOTO!
+ELECTRONICS PHOTO!  
 
 ##To Do:
-1. Attach motor cables.
-2. Attach thermistor cables.
-3. Attach heatbed.
+1. Attach motor cables.  
+2. Attach thermistor cables.  
+3. Attach heatbed.  
 
 #Prepare power supply
 ##Tools needed:
-Wire cutter
-Soldering iron
-Solder
+Wire cutter  
+Soldering iron  
+Solder  
+
 ##Parts:
-Shrink Tube
-Power supply
+Shrink Tube  
+Power supply  
 
 ##To Do:
-1. Pick a cable loom containing 3 black and 3 yellow wires. Cut of the plug.
-2. Strip the six wires 0,5 cm. 
-3. Twist two yellow and two black wires together thoroughly.
-4. Take the power connector plug from the electronics and screw in tight the black and yellow wires.
-5. The order is double yellow, double black, single yellow, single black.
-6. The final step to make the power supply working is to connect the power on signal to ground.
-7. Search the green wire and cut it.
-8. Search a black wire and cut it.
-9. Strip these wires and twist them. Solder the joint together. Cover the joint with shrink tubing. (PICTURE MISSING!)
+[<img src="Prev/DSC00993.jpg">](Large/DSC00993.jpg)  
+[<img src="Prev/DSC00996.jpg">](Large/DSC00996.jpg)  
+1. Pick a cable loom containing 3 black and 3 yellow wires. Cut of the plug.  
+
+[<img src="Prev/DSC00999.jpg">](Large/DSC00999.jpg)  
+2. Strip the six wires 0,5 cm.  
+
+[<img src="Prev/DSC01000.jpg">](Large/DSC01000.jpg)  
+3. Twist two yellow and two black wires together thoroughly.  
+
+[<img src="Prev/DSC01002.jpg">](Large/DSC01002.jpg)  
+4. Take the power connector plug from the electronics and screw in tight the black and yellow wires.  
+5. The order is double yellow, double black, single yellow, single black.  
+6. The final step to make the power supply working is to connect the power on signal to ground.  
+
+[<img src="Prev/DSC01004.jpg">](Large/DSC01004.jpg)  
+7. Search the green wire and cut it.  
+8. Search a black wire and cut it.  
+9. Strip these wires and twist them. Solder the joint together. Cover the joint with shrink tubing. (PICTURE MISSING!)  
 
 #Attach power supply to printer frame
 ##Tools needed:
-Hands
+Hands  
+
 ##Parts:
-8 x zip tie
+8 x zip tie  
 
 ##To Do:
-1. Connect four zip ties. Leave the end open. Do this two times.
-2. Attach the power supply to the bottom corner on the electronic side.
-3. Trim the zip tie.
-4. If you find a more elegant and easy way to attach the power supply, then let us know.
+[<img src="Prev/DSC01007.jpg">](Large/DSC01007.jpg)  
+1. Connect four zip ties. Leave the end open. Do this two times.  
+
+[<img src="Prev/DSC01008.jpg">](Large/DSC01008.jpg)  
+2. Attach the power supply to the bottom corner on the electronic side.  
+3. Trim the zip tie.  
+4. If you find a more elegant and easy way to attach the power supply, then let us know.  
 
 #Attach endstops
 ##Tools needed:
-Hex wrench
+Hex wrench  
+
 ##Parts:
-3 x micro switch
-X,Y,Z endstop holder
-6 x M3 x 10 screws
-3 x M3 x 20 screws
-9x M3 x 10 nuts
-3 x endstop cable
+[<img src="Prev/DSC01010.jpg">](Large/DSC01010.jpg)  
+3 x micro switch  
+X,Y,Z endstop holder  
+6 x M3 x 10 screws  
+3 x M3 x 20 screws  
+9x M3 x 10 nuts  
+3 x endstop cable  
 
 ##To Do:
-1. Screw one micro switch on to the flat side of each endstop holder with the M3 x 10 screws. The latch of the micro switch facing away from the part
-2. Put a nut into each nut trap of the endstop holders.
-3. Attach the z-endstop below the x-motor on the z-rod with a M3 x 20. The z-endstop is the printed part that is bigger. X and Y endstop holder look similar.
-4. Attach the x-endstop on the lower rod of the x-axis close to the x-motor.
-5. Attach the y-endstop on the rod closer to the electronics on the y-axis in fromt of the y-motor.
-6. Attach the endstop cables to the micro switches and the electronics. The yellow wire should be put on signal.
-7. Use big cable tube or zip ties to fit endstop cables in other cable looms if appropriate. For example join the x-endstop with the x-motor cable.
+[<img src="Prev/DSC01013.jpg">](Large/DSC01013.jpg)  
+[<img src="Prev/DSC01014.jpg">](Large/DSC01014.jpg)  
+[<img src="Prev/DSC01015.jpg">](Large/DSC01015.jpg)  
+1. Screw one micro switch on to the flat side of each endstop holder with the M3 x 10 screws. The latch of the micro switch facing away from the part  
+
+[<img src="Prev/DSC01017.jpg">](Large/DSC01017.jpg)  
+2. Put a nut into each nut trap of the endstop holders.  
+3. Attach the z-endstop below the x-motor on the z-rod with a M3 x 20. The z-endstop is the printed part that is bigger. X and Y endstop holder look similar.  
+4. Attach the x-endstop on the lower rod of the x-axis close to the x-motor.  
+5. Attach the y-endstop on the rod closer to the electronics on the y-axis in fromt of the y-motor.  
+
+[<img src="Prev/DSC01025.jpg">](Large/DSC01025.jpg)  
+6. Attach the endstop cables to the micro switches and the electronics. The yellow wire should be put on signal.  
+7. Use big cable tube or zip ties to fit endstop cables in other cable looms if appropriate. For example join the x-endstop with the x-motor cable.  
 PHOTOS OF ENDSTOP POSITION MISSING
 
-**IMPORTANT:** Watch carefully. The pin assignement is printed on the circuit board. Use a magnifier if text size is to smal for you. Wrong connection of this cables can seriously damage your electronics!
+**IMPORTANT:** Watch carefully. The pin assignement is printed on the circuit board. Use a magnifier if text size is to small for you. Wrong connection of this cables can seriously damage your electronics!
 
 #Attach Carbon build plate
 ##Tools needed:
-Hands
+Hands  
+
 ##Parts:
-Paper clips
-Carbon build plate
+[<img src="Prev/DSC01019.jpg">](Large/DSC01019.jpg)  
+Paper clips  
+Carbon build plate  
 
 ##To Do:
-1. Put the carbon build plate on the heat bed and attach it with the four paper clips. 
+[<img src="Prev/DSC01021.jpg">](Large/DSC01021.jpg)  
+1. Put the carbon build plate on the heat bed and attach it with the four paper clips.  
 
 #Software Setup
 ##Tools needed:
-Brain
+Brain  
+
 ##Parts:
-USB cable
-[Marlin 3D Printer Firmware](https://github.com/ErikZalm/Marlin)
-[Arduino Software](http://arduino.cc/en/main/software)
-[Printrun](https://github.com/kliment/Printrun)
-[Slic3r](http://slic3r.org)
+USB cable  
+[Marlin 3D Printer Firmware](https://github.com/ErikZalm/Marlin)  
+[Arduino Software](http://arduino.cc/en/main/software)  
+[Printrun](https://github.com/kliment/Printrun)  
+[Slic3r](http://slic3r.org)  
 
 ##To Do:
-1. Follow the links and load down the software for your OS.
-2. First you need to flash your electronics with the right firmware. Therefore you need Marlin and the Arduino software for the flashing.
-3. When you have installed the software, use the usb cable and connect the printer with your PC. You should now see a green LED flashing on your electronics.
-4. Start the arduino software.
-5. Click „File“ in the menu and chose „Open“. Search the directory of your unzipped firmware and select the file „Configuration.h“.
-6. Under „Tools/Board“ „Arduino Mega 2560 or Mega ADK“ must be selected.
-7. Chose the right serial port under „Tools/Serial port“.
-8. Then choose „File/Upload“. The frimware will now be uploaded to your electronics.
-9. You will get the the message „Upload complete“, if everything works fine.
+1. Follow the links and load down the software for your OS.  
+2. First you need to flash your electronics with the right firmware. Therefore you need Marlin and the Arduino software for the flashing.  
+3. When you have installed the software, use the usb cable and connect the printer with your PC. You should now see a green LED flashing on your electronics.  
+4. Start the arduino software.  
+5. Click „File“ in the menu and chose „Open“. Search the directory of your unzipped firmware and select the file „Configuration.h“.  
+6. Under „Tools/Board“ „Arduino Mega 2560 or Mega ADK“ must be selected.  
+7. Chose the right serial port under „Tools/Serial port“.  
+8. Then choose „File/Upload“. The frimware will now be uploaded to your electronics.  
+9. You will get the the message „Upload complete“, if everything works fine.  
 
 #Motor check
 ##Tools needed:
-Eye-hand coordination
+Eye-hand coordination  
+
 ##Parts:
-Electronics with proper firmware
-Installed Printrun (Installing printrun means simply unzipping the file into a folder.)
+Electronics with proper firmware  
+Installed Printrun (Installing printrun means simply unzipping the file into a folder.)  
 
 ##To Do:
-1. Start printrun and turn on the power supply of the printer. (The extruder and heatbed should be in center position bevor you turn on the power supply!) 
-2. Select the port name you are using from the first drop-down, select your baud rate, and hit connect.
-3. Status messages let you know that your printer is properly connected.
-4. Now you can use the manual controls (x+/-, y+/-, z+/-, extrude/reverse) to move extruder and heatbed.
-5. Move each axis +10/-10 and see i fit moves in the right direction
-	* +x = move extruder on x-axis to the right
-	* +y = move the heatbed up to you (away from the y-motor)
-	* +z = move x-axis on the z-axis up
-	* extrude = the small gear (which will grab the filament) should rotate towards you, when you look on the front side of the printer (the side with the z-axis)
-6. If a direction is inverted. Turn off the power supply and attach the motor plug the other way round on the electronics.
+1. Start printrun and turn on the power supply of the printer. (The extruder and heatbed should be in center position bevor you turn on the power supply!)  
+2. Select the port name you are using from the first drop-down, select your baud rate, and hit connect.  
+3. Status messages let you know that your printer is properly connected.  
+4. Now you can use the manual controls (x+/-, y+/-, z+/-, extrude/reverse) to move extruder and heatbed.  
+5. Move each axis +10/-10 and see i fit moves in the right direction  
+	* +x = move extruder on x-axis to the right  
+	* +y = move the heatbed up to you (away from the y-motor)  
+	* +z = move x-axis on the z-axis up  
+	* extrude = the small gear (which will grab the filament) should rotate towards you, when you look on the front side of the printer (the side with the z-axis)  
+6. If a direction is inverted. Turn off the power supply and attach the motor plug the other way round on the electronics.  
 
 #Set x- and y- endstop
 ##Tools needed:
-Hex wrench
+Hex wrench  
+
 ##Parts:
-Printrun
+Printrun  
 
 ##To Do:
-1. Start printrun and turn on the power supply of the printer.
-2. The y-endstop should be pressed by the printbed plate when the tip of the hotend is over the front edge of the carbon build plate. Take into account the overlap of the paper clips, when you determin the edge postiion because you do not want to drive your hotend into them. Fix the endstop in the appropriate postion.
-3. The x-endstop should be pressed by the extruder carriage when the tip of the hotend is over the edge of the carbon build plate close to the x-motor. Fix the endstop in the appropriate postion.
-4. Bravo you determined the x and y home position.
+1. Start printrun and turn on the power supply of the printer.  
+2. The y-endstop should be pressed by the printbed plate when the tip of the hotend is over the front edge of the carbon build plate. Take into account the overlap of the paper clips, when you determin the edge postiion because you do not want to drive your hotend into them. Fix the endstop in the appropriate postion.  
+3. The x-endstop should be pressed by the extruder carriage when the tip of the hotend is over the edge of the carbon build plate close to the x-motor. Fix the endstop in the appropriate postion.  
+4. Bravo you determined the x and y home position.  
 
 #Z-axis leveling and z-endstop
 ##Tools needed:
-Hex wrench
-2 sheets of paper
+Hex wrench  
+2 sheets of paper  
+
 ##Parts:
-Printrun
+Printrun  
 
 ##To Do:
-1. Put to sheets of paper over the carbon build plate.
-2. Move the extruder over the carbon build plate, so that just the papers fit between the hotend tip and the carbon build plate. Move carefully in small steps!
-3. If your z-axis makes noises or is not moving at all. The x-axis is not on the some height on both z-axis.
-4. Press „Motors off“. And adjust the height difference manually. Hold one of the z-axis threaded rods in position and level the x-axis by rotating the other rod.
-5. Move the hotend tip to all four corners of the carbon build plate. The paper should not be moved at any point by the hotend tip or even worse the hotend tip scratch into the carbon build plate. Adjust the height of the z-axis if necessary.
-6. If you find the right position, move the z-endstop so that it is pressed by the x-motor carriage. This is now you z-home postion.
+1. Put to sheets of paper over the carbon build plate.  
+2. Move the extruder over the carbon build plate, so that just the papers fit between the hotend tip and the carbon build plate. Move carefully in small steps!  
+3. If your z-axis makes noises or is not moving at all. The x-axis is not on the some height on both z-axis.  
+4. Press „Motors off“. And adjust the height difference manually. Hold one of the z-axis threaded rods in position and level the x-axis by rotating the other rod.  
+5. Move the hotend tip to all four corners of the carbon build plate. The paper should not be moved at any point by the hotend tip or even worse the hotend tip scratch into the carbon build plate. Adjust the height of the z-axis if necessary.  
+6. If you find the right position, move the z-endstop so that it is pressed by the x-motor carriage. This is now you z-home postion.  
 
 #Config slic3r for printing
 ##Tools needed:
-Tools
+Tools  
+
 ##Parts:
-Parts
+Parts  
 
 ##To Do:
 1. blablablablablablbalbalbalbalbalblabalbalblablablablablablablablablablabalbalablbalblabal
