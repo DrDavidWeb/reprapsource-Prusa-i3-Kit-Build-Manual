@@ -501,7 +501,7 @@ X-Axis motor holder
 2 x 470 mm smooth rods  
 
 ##To Do:
-[<img src="Prev/IMG_0558.jpg">](Large/IMG_0558.jpg)    
+[<img src="Prev/DrdRLlH.jpg">](Large/DrdRLlH.jpg)  
 1. Slide the printed parts on to the smooth rods. (Watch the picture carefully.)  The ends of the smooth rods sit approximatley half the way into the printed parts.  
 
 #X-Axis assembly - Attach X-motor
@@ -518,7 +518,6 @@ Screwdriver (PH2)
 
 ##To Do:
 [<img src="Prev/IMG_0560.jpg">](Large/IMG_0560.jpg)  
-BILD STIMMT NICHT MIT TEXT  
 1. Place the motor so that the wire harness is facing in the opposite direction of the small arm of the X-Axis motor holder.  
 2. Attach the 3 M3x10 screws.  
 
