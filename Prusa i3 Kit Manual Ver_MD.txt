@@ -394,7 +394,7 @@ Heatbed
 [<img src="Prev/IMG_0534.JPG">](Large/IMG_0534.JPG)  
 3. Remove the clamps and mark the direction in which the heatbed cables pointed when you drilled the holes.  
 
-[Zeichnung FEHLT!)  
+[<img src="Prev/baseplate.JPG">](Large/baseplate.JPG)  
 4. Turn the wooden plate upside down. You know see the rough side (bottom). Use a ruler to mark the middle of the plate and draw a line. (Your marking for the cables should be on the left side of the ruler)  
 5. Without lifting the ruler, make a mark at 112mm from the edge, and another mark at 20mm from the edge.  
 6. Position your ruler on the 20mm mark, and draw a line parallel to the edge of the square plate.  
@@ -555,7 +555,7 @@ X-Axis belt tensioner
 6. Connect both parts with the M4x30 screw and nut.  
 
 #Frame assembly
-ZEICHNUNG FRAME FEHLT NOCH
+[<img src="Prev/Frame_02.JPG">](Large/Frame_02.JPG)  
 ##Tools needed:
 Screwdriver  
 3 or (better) 3,2 mm drill bit and drill  
@@ -571,11 +571,14 @@ overview and the helping hands of a friend, if available are suggested
 20 x 3,5x20mm wood screws  
 
 ##To Do:
+[<img src="Prev/Frame_01.JPG">](Large/Frame_01.JPG)  
+Position of all frame screws.  
+
 [<img src="Prev/IMG_0576.JPG">](Large/IMG_0576.JPG)  
 1. Take two of the 450mm panels and put them edge to edge on a flat surface, forming a corner.  
 
 [<img src="Prev/IMG_0577.JPG">](Large/IMG_0577.JPG)  
-2. Have a friend or a clamp hold them in place and drill through one into the center of the other, about 2.5cm (1 in) from the end.  
+2. Have a friend or a clamp hold them in place and drill through one into the center of the other, about 2,5cm (1 in) from the end. (Check this position before drilling to avoid a conflict Z-axis top brackets!)   
 3. Make super-sure the panels line up when you drill.  
 
 [<img src="Prev/IMG_0578.JPG">](Large/IMG_0578.JPG)  
@@ -854,8 +857,7 @@ small cable bundle tube
 2. Move the heatbed cables (thermistor included) towards the electronic side and ziptie them to the corresponding corner screw of the heatbed.  
 3. Now it is time to adjust the length of the motor cables and connect a plug to the end.  
 
-[<img src="Prev/IMG_2782.JPG">](Large/IMG_2782.JPG)  
-KABELWEGE EINZEICHNEN!!!
+[<img src="Prev/IMG_2782f.JPG">](Large/IMG_2782f.JPG)  
 4. Watch the graphic for the recommended cable run.  
 
 [<img src="Prev/IMG_2788.JPG">](Large/IMG_2788.JPG)  
