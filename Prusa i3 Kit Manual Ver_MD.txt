@@ -501,7 +501,7 @@ X-Axis motor holder
 2 x 470 mm smooth rods  
 
 ##To Do:
-[<img src="Prev/DrdRLlH.JPG">](Large/DrdRLlH.JPG)  
+[<img src="Prev/XAXIS.JPG">](Large/XAXIS.JPG)  
 1. Slide the printed parts on to the smooth rods. (Watch the picture carefully.)  The ends of the smooth rods sit approximatley half the way into the printed parts.  
 
 #X-Axis assembly - Attach X-motor
